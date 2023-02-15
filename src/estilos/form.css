@@ -1,0 +1,57 @@
+.h2 {
+    color: white;
+    font-weight: 500;
+}
+
+.form {
+    padding: 1rem;
+    
+}
+ input, textarea {
+    padding: 0.2rem;
+    border: 0;
+    margin-bottom: 0.8rem;
+    color: gray;
+}
+
+input:focus {
+    transition: all 0.4s;
+    background-color: lightgray;
+    
+}
+
+label {
+    color: white;
+    font-weight: 500;
+}
+
+
+
+.button {
+    border:1px solid;
+    padding: 0.5rem;
+    font-weight: 500;
+    background-color: #693bcc;
+    color: white;
+}
+.button:hover {
+    transition: all 0.4s ease-in-out;
+    background-color: #7c53d3;
+}
+
+/*Estilos mensaje de alerta*/
+.div {
+    border-radius:0;
+    padding:0;
+    margin-bottom:0;
+    justify-content: center;
+
+}
+
+.p {
+    width: 93%;
+    border-radius:0;
+    padding:0;
+    margin-bottom:0;
+    background-color: white;
+}

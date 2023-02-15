@@ -1,0 +1,29 @@
+* {
+  	padding: 0;
+  	margin: 0;
+		box-sizing: border-box;
+}
+html, body {
+	height: auto;
+	background-image: linear-gradient( #693bcc, #20123a);
+}
+h1 {
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+	color: white;
+}
+
+h2 {
+	color: white;
+	text-align: center;
+}
+
+.contenedor-form {
+	max-height: 510px;
+	padding: 0.5rem;
+	margin-bottom:1rem;
+	
+	background-color: rgb(255, 49, 84);
+	box-shadow: 10px 10px 16px -5px rgba(0,0,0,0.4);
+}
+

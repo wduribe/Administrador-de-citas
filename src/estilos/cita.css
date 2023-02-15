@@ -1,0 +1,21 @@
+.citas {
+    padding: 0.5rem;
+    background-color: lightgray;
+    margin-bottom: 0.5rem;
+}
+p {
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+}
+span {
+    margin-left: 0.5rem;
+    font-weight: 200;
+}
+.eliminar {
+    border: 1px solid white;
+    background-color: red;
+    
+}
+.eliminar:hover {
+    background-color: rgba(255,0,0,0.8);
+}
